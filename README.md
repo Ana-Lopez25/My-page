@@ -1,2 +1,2 @@
 # My-page
- Sobre a minha pessoa. Com CSS
+ GitHub Page. Com CSS
